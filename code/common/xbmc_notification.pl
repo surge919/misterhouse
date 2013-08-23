@@ -1,8 +1,7 @@
 # Category=Home_Network
 #
 #@ Sends Notification message to XBMC
-
-
+#
 # The following config parameters should be in mh.private.ini or mh.ini
 #
 # xbmc_notify_port=<Web port of your XBMC installation (Defaults to 8080 if unset)>
